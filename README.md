@@ -7,3 +7,5 @@ Recommendations are sorted by most recommended according to your interests.
 
 TravelRecommendation-ExpertSystem is developed to be user-friendly where you can enter lowercase or uppercase letters doesnt differ as long as you use singular key-words.
 The inference engine is used to add new personal charachteristics to countries according to specific key-words(rules).
+
+this is my knowledge engineering course project
